@@ -1,0 +1,7 @@
+.cabecalho {background-color: #FF7134;
+    display: flex;justify-content: space-around;
+}
+
+.cabecalho-imagem2 {width: 75px ; height: 75px ;}
+.cabecalho-imagem3 {width: 30px ; height: 30px;}
+.cabecalho-titulo2 {width: 1px};
